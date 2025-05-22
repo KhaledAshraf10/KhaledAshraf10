@@ -45,8 +45,8 @@ Here are a few highlights – check my pinned repos for more!
 
 ### 📈 GitHub Stats
 
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledashrafn0&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledashrafn0&layout=compact)
+![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledAshraf10&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAshraf10&layout=compact)
 
 ---
 
