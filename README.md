@@ -53,8 +53,7 @@ Here are a few highlights – check my pinned repos for more!
 ### 📫 Contact
 
 - 📧 Email: khaledashrafn0@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)  
-- 💼 Portfolio: (optional – add if you have one)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kashraff/)  
 
 ---
 
