@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Khaled Ashraf
 
 🎓 Machine Learning Engineer | AI Enthusiast | Full-Stack Explorer  
-📍 Based in Cairo, Egypt | 🤝 Open to collaborations
+🌍 Based in Cairo, Egypt | 🤝 Open to collaborations
 
 ---
 
@@ -22,7 +22,7 @@ With experience across **NLP**, **data visualization**, **model tuning**, and **
 
 ---
 
-### 🚀 Projects
+### 💻 Projects
 
 Here are a few highlights – check my pinned repos for more!
 
